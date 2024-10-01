@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Valentin | javascript & Node.js Developer</h1>
+<h1 align="center">Hi 👋, I'm Valentin | javascript developer</h1>
 
 - 🔭 I’m currently working on a very niche personal project to manage [Ableton Live](https://www.ableton.com/) projects with **Node.js**
 - 🌱 I’m currently learning **React**
