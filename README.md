@@ -61,3 +61,13 @@
         <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="figma" width="40" height="40"/> 
     </a>
 </p>
+
+&nbsp;
+
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentin-orrit&layout=compact&langs_count=10&theme=light" alt="toczekmj" />
+</div>
+
+
+&nbsp;
