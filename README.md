@@ -18,6 +18,12 @@
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
         <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express" width="40" height="40"/> 
     </a>
+    <a href="https://mochajs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="mocha" width="40" height="40"/> 
+    </a>
+    <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="chai" width="40" height="40"/> 
+    </a>
     <a href="https://react.dev" target="_blank" rel="noreferrer"> 
         <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="40" height="40"/> 
     </a>
@@ -38,6 +44,9 @@
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
         <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="postgresql" width="40" height="40"/> 
+    </a>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="sqlite" width="40" height="40"/> 
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" width="40" height="40"/> 
