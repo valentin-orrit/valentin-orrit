@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on a very niche personal project to manage [Ableton Live](https://www.ableton.com/) projects with **Node.js**
 - 🌱 I’m currently learning **React**
+- 👀 Check out my [portfolio](https://valentinorrit.com/)
 - 📫 How to reach me: [**contact@valentinorrit.com**](mailto:contact@valentinorrit.com)
 
 <h3 align="center">Languages and tools:</h3>
