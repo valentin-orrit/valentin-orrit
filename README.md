@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valentin | Full Stack developer</h1>
 
-- 🔭 I’m currently working on a very niche personal project to manage [Ableton Live](https://www.ableton.com/) projects with **Node.js** and an [interactive map](https://github.com/valentin-orrit/glutenfree-map) project with **React**
+- 🔭 I’m currently working on a very niche personal project to manage [Ableton Live](https://www.ableton.com/) projects with **Node.js**
+- 🔭 Also working on an [interactive map](https://github.com/valentin-orrit/glutenfree-map) project with **React**
 - 🌱 I’m currently learning **React**
 - 👀 Check out my [portfolio](https://valentinorrit.com/)
 - 📫 How to reach me: [**contact@valentinorrit.com**](mailto:contact@valentinorrit.com)
