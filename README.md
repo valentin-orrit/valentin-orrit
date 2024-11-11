@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a very niche personal project to manage [Ableton Live](https://www.ableton.com/) projects with **Node.js**
 - 🔭 Also working on an [interactive map](https://github.com/valentin-orrit/glutenfree-map) project with **React**
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Typescript**
 - 👀 Check out my [portfolio](https://valentinorrit.com/)
 - 📫 How to reach me: [**contact@valentinorrit.com**](mailto:contact@valentinorrit.com)
 
