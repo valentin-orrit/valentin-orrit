@@ -11,6 +11,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="javascript" width="40" height="40"/> 
     </a>
+        <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> 
+        <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="typescript" width="40" height="40"/> 
+    </a>
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="node" width="40" height="40"/> 
     </a>
@@ -19,6 +22,9 @@
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
         <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express" width="40" height="40"/> 
+    </a>
+    <a href="https://jestjs.io/fr/" target="_blank" rel="noreferrer"> 
+        <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="jest" width="40" height="40"/> 
     </a>
     <a href="https://mochajs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="mocha" width="40" height="40"/> 
