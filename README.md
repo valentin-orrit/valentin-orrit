@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Valentin | Full Stack developer</h1>
 
-- 🔭 I’m currently working on **super secret samples**, a very niche SAAS for selling samples to music producers with **Remix**
+- 🔭 I’m currently working on **super secret samples**, an audio samples library for music producers
 - 🌱 Learning C#
 - 👀 Check out my [portfolio](https://valentinorrit.com/)
 - 📫 How to reach me: [**contact@valentinorrit.com**](mailto:contact@valentinorrit.com)
