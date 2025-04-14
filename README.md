@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Valentin | Full Stack developer</h1>
 
 - 🔭 I’m currently working on **super secret samples**, a very niche SAAS for selling samples to music producers with **Remix**
-- 🔭 Also working on [Eat Around](https://eataround.co/) with **React** (ft. [Gaultier Patrice](https://github.com/gaultierpatrice))
 - 🌱 Learning C#
 - 👀 Check out my [portfolio](https://valentinorrit.com/)
 - 📫 How to reach me: [**contact@valentinorrit.com**](mailto:contact@valentinorrit.com)
