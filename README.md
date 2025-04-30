@@ -31,29 +31,14 @@
     <a href="https://jestjs.io/fr/" target="_blank" rel="noreferrer"> 
         <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="jest" width="40" height="40"/> 
     </a>
-    <a href="https://mochajs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="mocha" width="40" height="40"/> 
-    </a>
-    <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="chai" width="40" height="40"/> 
-    </a>
     <a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer"> 
         <img src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="ruby" width="40" height="40"/> 
     </a>
     <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> 
         <img src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png" alt="ruby on rails" width="40" height="40"/> 
     </a>
-    <a href="" target="_blank" rel="noreferrer"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest api" width="40" height="40"/> 
-    </a>
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="postman" width="40" height="40"/> 
-    </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
         <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="postgresql" width="40" height="40"/> 
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="sqlite" width="40" height="40"/> 
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
         <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" width="40" height="40"/> 
@@ -66,9 +51,6 @@
     </a>
     <a href="https://vite.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="vite" width="40" height="40"/> 
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="40" height="40"/> 
     </a>
     <a href="https://www.figma.com" target="_blank" rel="noreferrer"> 
         <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="figma" width="40" height="40"/> 
