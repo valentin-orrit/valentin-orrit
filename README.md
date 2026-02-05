@@ -57,7 +57,10 @@
 &nbsp;
 
 <div align="center">
+    <img src="./profile/languages.svg" alt="Top Languages" />
+    <!--
     <img src="./profile/stats.svg" alt="GitHub Stats" />
+    -->
 </div>
 
 <!--
