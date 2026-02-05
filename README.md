@@ -57,5 +57,8 @@
 &nbsp;
 
 <div align="center">
+<!--
+    ![Stats](./profile/stats.svg)
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentin-orrit&layout=compact" alt="stats" />
+-->
 </div>
