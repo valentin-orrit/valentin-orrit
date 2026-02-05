@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Valentin | Full Stack developer</h1>
 
-- 🔭 I’m currently working on **super secret samples**, an audio samples library for music producers
-- 🌱 Also working on a Java Spring Boot project
+- 🔭 I’m currently working on an app for the webradio **reflets** with Spring Boot and React
 - 👀 Check out my [portfolio](https://valentinorrit.com/)
-- 📫 How to reach me: [**contact@valentinorrit.com**](mailto:contact@valentinorrit.com)
+- 📫 How to reach me: [**vorrit@gmail.com**](mailto:vorrit@gmail.com)
 
 <h3 align="center">Languages and tools:</h3>
 <p align="center">
