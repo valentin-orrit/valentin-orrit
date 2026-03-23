@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Valentin | Full Stack developer</h1>
+<h1 align="center">Hi, I'm Valentin | Full Stack developer</h1>
 
-- 🔭 I’m currently working on an app for the webradio **reflets** with Spring Boot and React
-- 👀 Check out my [portfolio](https://valentinorrit.com/)
-- 📫 How to reach me: [**vorrit@gmail.com**](mailto:vorrit@gmail.com)
+- I’m currently working on an app for the webradio **reflets** with Spring Boot and React
+- Check out my [portfolio](https://valentinorrit.com/)
+- How to reach me: [**vorrit@gmail.com**](mailto:vorrit@gmail.com)
 
 <h3 align="center">Languages and tools:</h3>
 <p align="center">
